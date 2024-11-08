@@ -6,7 +6,9 @@
 
     "description": "Extension to manage Lynbrook CS projects.",
 
-    "publisher": "Lynbrook High School",
+    "publisher": "lynbrook",
+
+    "repository": "https://github.com/blaw105/lynbrook-cs",
 
     "version": "0.1.0",
 
