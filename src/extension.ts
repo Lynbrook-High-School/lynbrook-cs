@@ -13,7 +13,8 @@ const GITIGNORE = `\
 *.ear
 *.zip
 *.tar.gz
-*.rar\
+*.rar
+GridWorld\
 `;
 
 export function activate(context: vscode.ExtensionContext) {
